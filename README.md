@@ -41,3 +41,4 @@ Helping students summarize academic content
 Extracting key ideas from reports
 
 *OUTPUT*:
+<img width="1365" height="343" alt="Image" src="https://github.com/user-attachments/assets/a4034d08-23e3-4a56-9490-59e4ecd5ed8c" />
